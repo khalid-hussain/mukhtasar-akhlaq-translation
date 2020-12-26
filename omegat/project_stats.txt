@@ -1,13 +1,18 @@
-12/22/20 11:23 AM
+12/22/20 3:40 PM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
-Total:           	       0	    0	                          0	                            0	     0	
-Remaining:       	       0	    0	                          0	                            0	     0	
-Unique:          	       0	    0	                          0	                            0	     0	
-Unique Remaining:	       0	    0	                          0	                            0	     0	
+Total:           	     184	 1678	                      12734	                        14279	     5	
+Remaining:       	     181	 1655	                      12560	                        14085	     4	
+Unique:          	     162	 1656	                      12688	                        14233	     5	
+Unique Remaining:	     159	 1633	                      12514	                        14039	     4	
 
 
 Individual File Statistics:
 
-File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+File Name      	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+_muqaddimah.txt	             3	                 0	              3	                        0	         23	              0	          23	                     0	                              174	                                    0	                               174	                                           0	                                194	                                      0	                                 194	                                             0	
+maqalah-1.txt  	            99	                99	             81	                       81	        495	            495	         477	                   477	                             4247	                                 4247	                              4209	                                        4209	                               4667	                                   4667	                                4629	                                          4629	
+maqalah-2.txt  	            31	                31	             31	                       31	        467	            467	         467	                   467	                             4244	                                 4244	                              4244	                                        4244	                               4701	                                   4701	                                4701	                                          4701	
+maqalah-3.txt  	            30	                30	             26	                       26	        299	            299	         295	                   295	                             2035	                                 2035	                              2027	                                        2027	                               2305	                                   2305	                                2297	                                          2297	
+maqalah-4.txt  	            21	                21	             21	                       21	        394	            394	         394	                   394	                             2034	                                 2034	                              2034	                                        2034	                               2412	                                   2412	                                2412	                                          2412	

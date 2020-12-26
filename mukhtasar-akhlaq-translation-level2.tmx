@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tmx SYSTEM "tmx11.dtd">
-<tmx version="1.1">
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="AR-SA"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="AR-SA">
+      <tuv xml:lang="AR-SA">
         <seg>الحَمْدُ للهِ عَلَىٰ نَوَالِهِ، والصَّلاةُ عَلَىٰ نَبِيِّهِ مُحَمَّدٍ وَآلِهِ.</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Khalid" changedate="20201222T040436Z" creationid="Khalid" creationdate="20201222T040408Z">
+      <tuv xml:lang="EN-US" changeid="Khalid" changedate="20201222T040436Z" creationid="Khalid" creationdate="20201222T040408Z">
         <seg>All praises are for Allāh for his many favors, and salutations be upon His Prophet and his family.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="AR-SA">
+      <tuv xml:lang="AR-SA">
         <seg>بسم الله الرحمن الرحيم</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Khalid" changedate="20201222T040203Z" creationid="Khalid" creationdate="20201222T040203Z">
+      <tuv xml:lang="EN-US" changeid="Khalid" changedate="20201222T040203Z" creationid="Khalid" creationdate="20201222T040203Z">
         <seg>In the name of Allāh, the Most Gracious, the Most Merciful.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="AR-SA">
+      <tuv xml:lang="AR-SA">
         <seg>وَبَعْدُ، فَهَذَا مُخْتَصَرٌ فِي عِلْمِ الأَخْلَاقِ، وَرَتَّبْتُهُ عَلَىٰ أَرْبَعِ مَقَالَاتٍ.</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Khalid" changedate="20201222T040717Z" creationid="Khalid" creationdate="20201222T040447Z">
+      <tuv xml:lang="EN-US" changeid="Khalid" changedate="20201222T040717Z" creationid="Khalid" creationdate="20201222T040447Z">
         <seg>To proceed, this is a short composition on etiquette/manners, which I have divided/arranged/ordered into four monographs.</seg>
       </tuv>
     </tu>
